@@ -5,8 +5,8 @@
 <h3 align="center">A passionate developer from USA.</h3>
 
 - 🔭 I’m currently working on [calculator](https://github.com/redplusblue/calculator)
+- 🌱 I’m currently learning javascript
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -16,9 +16,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&" alt="redplusblue" /></p>
 
 
-<!--
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&layout=compact)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&layout=compact)
+<!--
 ![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=redplusblue&count_private=true)
 -->
 <!--
