@@ -4,8 +4,15 @@
 - 🔭 I’m currently working on [TBD]
 - 📖 I want to learn js frameworks like React.js and Express.js and create fullstack web applications, potentially multiplatform.
 
-<p align="left">
-</p>
+## Projects
+#### (Sorted by date completed): 
+
+#### - Calculator using HTML/CSS/JS: &nbsp; |[code](https://github.com/redplusblue/calculator)| &nbsp; |[demo](https://redplusblue.github.io/calculator/)|
+#### - Etch-a-sketch using HTML/CSS/JS: &nbsp; |[code](https://github.com/redplusblue/Etch-A-Sketch)| &nbsp; |[demo](https://redplusblue.github.io/Etch-A-Sketch/)|
+#### - Rock Paper Scissors game using HTML/CSS/JS: &nbsp; |[code](https://github.com/redplusblue/Rock-Paper-Scissors)| &nbsp; |[demo](https://redplusblue.github.io/Rock-Paper-Scissors/)|
+#### - Automation scripts made in python: &nbsp; |[code](https://github.com/redplusblue/Scripts/tree/main/Python)|
+#### - Blog web app using django: &nbsp; |[code](https://github.com/redplusblue/sk.blog)| &nbsp; |[demo](https://sk-blog-0.herokuapp.com/)|
+#### - Game explorer made in python: &nbsp; |[code](https://github.com/redplusblue/py-Game)|
 
 <h3 align="left">Languages and Tools:</h3>
 
