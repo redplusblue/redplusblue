@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir</h1>
 <h3 align="center">A student of Computer Science and passionate Fullstack developer from USA.</h3>
 
-- 🔭 I’m currently working on [calculator](https://github.com/redplusblue/calculator)
+- 🔭 I’m currently working on [TBD]
 - 📖 I want to learn js frameworks like React.js and Express.js and create fullstack web applications, potentially multiplatform.
 
 <p align="left">
