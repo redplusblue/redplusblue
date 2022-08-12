@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [TBD]
 - 📖 I want to learn js frameworks like React.js and Express.js and create fullstack web applications, potentially multiplatform.
 
-## Projects
+## **Projects**:
 #### (Sorted by date completed): 
 
 #### - Calculator using HTML/CSS/JS: &nbsp; |[code](https://github.com/redplusblue/calculator)| &nbsp; |[demo](https://redplusblue.github.io/calculator/)|
