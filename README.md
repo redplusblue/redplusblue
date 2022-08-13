@@ -244,7 +244,7 @@
 <!-- Stats widgets -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&" alt="redplusblue" />
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=7&layout=compact)
 
 
 
