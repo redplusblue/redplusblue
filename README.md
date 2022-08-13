@@ -6,7 +6,7 @@
 - 📖 I want to learn js frameworks like React.js and Express.js and create fullstack web applications, potentially multiplatform.
 
 
-# Projects: 
+# Projects:clipboard:: 
 <!-- Projects table -->
  <table>
     <caption>(Sorted by date completed)</caption>
@@ -108,7 +108,7 @@
   </table>
 <br>
 
-# Languages and Tools:
+# Languages and Tools:nut_and_bolt::
 
 <!-- Languages and tools table -->
 <table>
@@ -239,7 +239,7 @@
 </table>
 <br>
 
-# Stats:
+# Stats :chart_with_upwards_trend::bar_chart::
 
 <!-- Stats widgets -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&" alt="redplusblue" />
