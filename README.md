@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samir</h1>
-<h2 align="center">A student🎓 of Computer Science and a passionate fullstack developer from USA.</h2>
+<h2 align="center">A student🎓 of Computer Science and a passionate <code>fullstack developer</code> from USA.</h2>
 <br>
 
 - 🔭 I’m currently working on [TBD]
