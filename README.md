@@ -244,7 +244,6 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=7&layout=compact)
 
 
-
 <!--
 Languages/Tools table Inspired by: [Michał Osman](https://github.com/michalosman/michalosman)
 -->
