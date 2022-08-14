@@ -10,12 +10,6 @@
 <!-- Projects table -->
  <table>
     <caption>(Sorted by date completed)</caption>
-    <colgroup>
-      <col align="center" style="height: 100px; width: 200px;">
-      <col align="center" style="height: 100px; width: 200px;">
-      <col align="center" style="height: 100px; width: 200px;">
-      <col align="center" style="height: 100px; width: 200px;">
-    </colgroup>
     <thead>
       <th style="font-size: 20px;">Name</th>
       <th style="font-size: 20px;">Languages/Tools used</th>
