@@ -239,9 +239,9 @@
 # Stats :chart_with_upwards_trend::bar_chart::
 
 <!-- Stats widgets -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&" alt="redplusblue" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&theme=dark" alt="redplusblue" />
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=9&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=9&layout=compact&theme=dark)
 
 
 <!--
