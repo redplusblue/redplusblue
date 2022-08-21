@@ -12,7 +12,7 @@
 # Projects:clipboard:: 
 <!-- Projects table -->
  <table>
-    <caption>(Sorted by date completed)</caption>
+    <!--<caption>(Sorted by date completed)</caption> not anymore lol-->
     <thead>
       <th style="font-size: 20px;">Name</th>
       <th style="font-size: 20px;">Languages/Tools used</th>
@@ -100,6 +100,19 @@
         <td align="center"><a
             href="https://github.com/redplusblue/py-Game"><code><b>CODE</b></code></a></td>
         <td align="center"><b>-</b></td>
+      </tr>
+      <tr>
+        <td align="center"><b>horoscope</b></td>
+        <td align=" center">
+          <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
+            alt="HTML5" />
+          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
+            alt="CSS3" />
+          <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
+            height="40" alt="JavaScript" />
+        </td>
+        <td align="center"><a href="https://github.com/redplusblue/horoscope"><code><b>CODE</b></code></a></td>
+        <td align="center"><a href="https://redplusblue.github.io/horoscope/"><b>Demo</b></a></td>
       </tr>
     </tbody>
   </table>
