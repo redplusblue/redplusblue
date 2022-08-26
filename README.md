@@ -127,6 +127,17 @@
         <td align="center"><a href="https://github.com/redplusblue/sign-up-form"><code><b>CODE</b></code></a></td>
         <td align="center"><a href="https://redplusblue.github.io/sign-up-form/"><b>Demo</b></a></td>
       </tr>
+      <tr>
+        <td align="center"><b>admin-dashboard</b></td>
+        <td align=" center">
+          <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
+            alt="HTML5" />
+          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
+            alt="CSS3" />
+        </td>
+        <td align="center"><a href="https://github.com/redplusblue/admin-dashboard"><code><b>CODE</b></code></a></td>
+        <td align="center"><a href="https://redplusblue.github.io/admin-dashboard/"><b>Demo</b></a></td>
+      </tr>
     </tbody>
   </table>
 <br>
