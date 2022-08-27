@@ -1,6 +1,5 @@
-<!--<h1 align="center">Hi 👋, I'm <a href="mailto:samirnotfound404@gmail.com">Samir</a></h1>-->
 <h1><img src="files/WelcomeAnimation.gif"></h1>
-<h2 align="center">A student🎓 of Computer Science and a passionate <code>fullstack developer</code> from USA.</h2>
+<h3><a href="mailto:samirnotfound404@gmail.com">Contact Me</a></h3>
 <br>
 
 - 🔭 I’m currently working on [The Odin Project's Fullstack Javascript Path](https://www.theodinproject.com/paths/full-stack-javascript?)
