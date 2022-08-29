@@ -1,5 +1,5 @@
-<h1><a href="mailto:samirnotfound404@gmail.com"><img src="files/WelcomeAnimation.gif"></a></h1>
-<h3><a href="mailto:samirnotfound404@gmail.com">Contact Me</a></h3>
+<h1><a href="mailto:samirnotfound404@gmail.com"><img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!"></a></h1>
+<h3><a href="mailto:samirnotfound404@gmail.com" title="Email!">Contact Me</a></h3>
 <br>
 
 - 🔭 I’m currently working on [The Odin Project's Fullstack Javascript Path](https://www.theodinproject.com/paths/full-stack-javascript?)
