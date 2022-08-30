@@ -73,20 +73,6 @@
         <td align="center"><a href="https://redplusblue.github.io/Etch-A-Sketch/"><b>Demo</b></a></td>
       </tr>
       <tr>
-        <td align="center"><b>Rock Paper Scissors</b></td>
-        <td align="center">
-          <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
-            alt="HTML5" />
-          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
-            alt="CSS3" />
-          <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
-            height="40" alt="JavaScript" />
-        </td>
-        <td align="center"><a href="https://github.com/redplusblue/Rock-Paper-Scissors"><code><b>CODE</b></code></a>
-        </td>
-        <td align="center"><a href="https://redplusblue.github.io/Rock-Paper-Scissors/"><b>Demo</b></a></td>
-      </tr>
-      <tr>
         <td align="center"><b>Automation Scripts</b></td>
         <td align="center">
           <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"
