@@ -60,19 +60,6 @@
         <td align="center"><a href="https://redplusblue.github.io/library/"><b>Demo</b></a></td>
       </tr>
       <tr>
-        <td align="center"><b>Card Shuffler</b></td>
-        <td align=" center">
-          <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
-            alt="HTML5" />
-          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
-            alt="CSS3" />
-          <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
-            height="40" alt="JavaScript" />
-        </td>
-        <td align="center"><a href="https://github.com/redplusblue/card-shuffler"><code><b>CODE</b></code></a></td>
-        <td align="center"><a href="https://redplusblue.github.io/card-shuffler/"><b>Demo</b></a></td>
-      </tr>
-      <tr>
         <td align="center"><b>Etch-a-sketch</b></td>
         <td align="center">
           <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
@@ -84,6 +71,19 @@
         </td>
         <td align="center"><a href="https://github.com/redplusblue/Etch-A-Sketch"><code><b>CODE</b></code></a></td>
         <td align="center"><a href="https://redplusblue.github.io/Etch-A-Sketch/"><b>Demo</b></a></td>
+      </tr>
+      <tr>
+        <td align="center"><b>Card Shuffler</b></td>
+        <td align=" center">
+          <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
+            alt="HTML5" />
+          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
+            alt="CSS3" />
+          <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
+            height="40" alt="JavaScript" />
+        </td>
+        <td align="center"><a href="https://github.com/redplusblue/card-shuffler"><code><b>CODE</b></code></a></td>
+        <td align="center"><a href="https://redplusblue.github.io/card-shuffler/"><b>Demo</b></a></td>
       </tr>
       <tr>
         <td align="center"><b>Automation Scripts</b></td>
