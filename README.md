@@ -6,6 +6,7 @@
 - <details><summary title="Click!">🌱 I'm also pursuing a <b> Bachelors degree in Computer Science... </b> </summary><ul>
    <li>I've learned about Data Structures & Algorithms and Computer Architecture & Assembly language, alongwith Discrete math and Python Programming.</li>
    <li>This fall, I will be learning about Systems Programming, Principles of Information & Data Management, Principles of Programming Languages and Internet   Technology.</li></ul></details>
+   
 - 📖 I want to learn how to create responsive multiplatform web applications. 
 - :open_mouth: I'm fascinated with creating websites with interactive 3D elements.
 
@@ -284,7 +285,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&theme=dark" alt="redplusblue" />
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=9&layout=compact&theme=dark)
-
 
 <!--
 Languages/Tools table Inspired by: [Michał Osman](https://github.com/michalosman/michalosman)
