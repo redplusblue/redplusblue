@@ -3,13 +3,19 @@
 <br>
 
 - 🔭 I’m currently working on [The Odin Project's Fullstack Javascript Path](https://www.theodinproject.com/paths/full-stack-javascript?)
-- 🌱 I'm also pursuing a **Bachelors degree in Computer Science**: 
-   - I've learned about Data Structures & Algorithms and Computer Architecture & Assembly language, alongwith Discrete math and Python Programming.
-   - This fall, I will be learning about Systems Programming, Principles of Information & Data Management, Principles of Programming Languages and Internet Technology.  
+
+- <details>
+   <summary title="Click!">🌱 I'm also pursuing a <b> Bachelors degree in Computer Science... </b> </summary>
+   <ul>
+   <li>I've learned about Data Structures & Algorithms and Computer Architecture & Assembly language, alongwith Discrete math and Python Programming.</li>
+   <li>This fall, I will be learning about Systems Programming, Principles of Information & Data Management, Principles of Programming Languages and Internet   Technology.</li></ul>  
+</details>
+
 - 📖 I want to learn how to create responsive multiplatform web applications. 
 - :open_mouth: I'm fascinated with creating websites with interactive 3D elements.
 
-# Projects:clipboard:: 
+<details>
+<summary><h1 title="Click!">Projects:clipboard::<h1></summary>
 <!-- Projects table -->
  <table>
     (A list of things I made)
@@ -141,6 +147,7 @@
       </tr>
     </tbody>
   </table>
+</details>
 <br>
 
 # Languages and Tools:nut_and_bolt::
