@@ -26,7 +26,7 @@
     <tbody>
       <tr>
         <td align="center"><b>Calculator</b></td>
-        <td align=" center">
+        <td align="center">
           <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
             alt="HTML5" />
           <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
@@ -39,7 +39,7 @@
       </tr>
       <tr>
         <td align="center"><b>Tic Tac Toe</b></td>
-        <td align=" center">
+        <td align="center">
           <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
             alt="HTML5" />
           <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
@@ -52,7 +52,7 @@
       </tr>
        <tr>
         <td align="center"><b>Library</b></td>
-        <td align=" center">
+        <td align="center">
           <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
             alt="HTML5" />
           <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
@@ -78,7 +78,7 @@
       </tr>
       <tr>
         <td align="center"><b>Card Shuffler</b></td>
-        <td align=" center">
+        <td align="center">
           <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
             alt="HTML5" />
           <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
@@ -132,7 +132,7 @@
       </tr>
       <tr>
         <td align="center"><b>horoscope</b></td>
-        <td align=" center">
+        <td align="center">
           <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
             alt="HTML5" />
           <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
