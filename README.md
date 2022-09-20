@@ -205,7 +205,7 @@
       />
       <br /><strong>Java</strong>
     </td>
-        <td align="center" height="108" width="108">
+       <td align="center" height="108" width="108">
         <img
           title="Python"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -216,18 +216,28 @@
         <br /><strong>Python</strong>
       </td>
       <td align="center" height="108" width="108">
-      <img
-        title="Node.js"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
-    </td>
-  </tr>
-  <tr>  
-    <td align="center" height="108" width="108">
+        <img
+          title="C"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+          width="48"
+          height="48"
+          alt="C"
+        />
+        <br /><strong>C</strong>
+      </td>
+</tr>
+<tr>
+     <td align="center" height="108" width="108">
+         <img
+           title="Node.js"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+           width="48"
+           height="48"
+           alt="Node.js"
+         />
+         <br /><strong>Node.js</strong>
+       </td>
+       <td align="center" height="108" width="108">
       <img
         title="Django"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
@@ -286,16 +296,6 @@
         alt="PostgreSQL"
       />
       <br /><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        title="SQLite"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
-        width="48"
-        height="48"
-        alt="SQLite"
-      />
-      <br /><strong>SQLite</strong>
     </td>
   </tr>
 </table>
