@@ -186,15 +186,15 @@
       <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img 
-        title="Bootstrap"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"   
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>
+        <img
+          title="Python"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+          width="48"
+          height="48"
+          alt="Python"
+        />
+        <br /><strong>Python</strong>
+      </td>
     <td align="center" height="108" width="108">
       <img
         title="Java"
@@ -205,16 +205,6 @@
       />
       <br /><strong>Java</strong>
     </td>
-       <td align="center" height="108" width="108">
-        <img
-          title="Python"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-          width="48"
-          height="48"
-          alt="Python"
-        />
-        <br /><strong>Python</strong>
-      </td>
       <td align="center" height="108" width="108">
         <img
           title="C"
@@ -225,28 +215,29 @@
         />
         <br /><strong>C</strong>
       </td>
+      <td align="center" height="108" width="108">
+        <img
+          title="Haskell"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"
+          width="48"
+          height="48"
+          alt="Haskell"
+        />
+        <br /><strong>Haskell</strong>
+      </td>
 </tr>
 <tr>
-     <td align="center" height="108" width="108">
-         <img
-           title="Node.js"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-           width="48"
-           height="48"
-           alt="Node.js"
-         />
-         <br /><strong>Node.js</strong>
-       </td>
-       <td align="center" height="108" width="108">
-      <img
-        title="Django"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+   <td align="center" height="108" width="108">
+      <img 
+        title="Bootstrap"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"   
         width="48"
         height="48"
-        alt="Django"
+        alt="Bootstrap"
       />
-      <br /><strong>Django</strong>
+      <br /><strong>Bootstrap</strong>
     </td>
+    
    <td align="center" height="108" width="108">
       <img
         title="Webpack"
@@ -276,6 +267,16 @@
         alt="Git"
       />
       <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        title="Django"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+        width="48"
+        height="48"
+        alt="Django"
+      />
+      <br /><strong>Django</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
