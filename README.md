@@ -50,6 +50,36 @@
         <td align="center"><a href="https://github.com/redplusblue/tictactoe"><code><b>CODE</b></code></a></td>
         <td align="center"><a href="https://redplusblue.github.io/tictactoe/"><b>Demo</b></a></td>
       </tr>
+      <tr>
+        <td align="center"><b>To-Do List</b></td>
+        <td align="center">
+        <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
+            height="40" alt="JavaScript" />
+          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
+            alt="CSS3" />
+            <img title="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"
+            alt="Webpack" />
+            <img title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"
+            height="40" alt="npm" />
+        </td>
+        <td align="center"><a href="https://github.com/redplusblue/to-do"><code><b>CODE</b></code></a></td>
+        <td align="center"><a href="https://redplusblue.github.io/to-do/"><b>Demo</b></a></td>
+      </tr>
+      <tr>
+        <td align="center"><b>Restaurant-Page</b></td>
+        <td align="center">
+        <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
+            height="40" alt="JavaScript" />
+          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
+            alt="CSS3" />
+            <img title="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"
+            alt="Webpack" />
+            <img title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"
+            height="40" alt="npm" />
+        </td>
+        <td align="center"><a href="https://github.com/redplusblue/Restaurant-Page"><code><b>CODE</b></code></a></td>
+        <td align="center"><a href="https://redplusblue.github.io/Restaurant-Page/"><b>Demo</b></a></td>
+      </tr>
        <tr>
         <td align="center"><b>Library</b></td>
         <td align="center">
@@ -75,21 +105,6 @@
         </td>
         <td align="center"><a href="https://github.com/redplusblue/Etch-A-Sketch"><code><b>CODE</b></code></a></td>
         <td align="center"><a href="https://redplusblue.github.io/Etch-A-Sketch/"><b>Demo</b></a></td>
-      </tr>
-      <tr>
-        <td align="center"><b>Restaurant-Page</b></td>
-        <td align="center">
-        <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
-            height="40" alt="JavaScript" />
-          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
-            alt="CSS3" />
-            <img title="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"
-            alt="Webpack" />
-            <img title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"
-            height="40" alt="npm" />
-        </td>
-        <td align="center"><a href="https://github.com/redplusblue/Restaurant-Page"><code><b>CODE</b></code></a></td>
-        <td align="center"><a href="https://redplusblue.github.io/Restaurant-Page/"><b>Demo</b></a></td>
       </tr>
       <tr>
         <td align="center"><b>Automation Scripts</b></td>
