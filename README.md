@@ -24,33 +24,7 @@
       <th style="font-size: 20px;">Demo</th>
     </thead>
     <tbody>
-      <tr>
-        <td align="center"><b>Calculator</b></td>
-        <td align="center">
-          <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
-            alt="HTML5" />
-          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
-            alt="CSS3" />
-          <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
-            height="40" alt="JavaScript" />
-        </td>
-        <td align="center"><a href="https://github.com/redplusblue/calculator"><code><b>CODE</b></code></a></td>
-        <td align="center"><a href="https://redplusblue.github.io/calculator/"><b>Demo</b></a></td>
-      </tr>
-      <tr>
-        <td align="center"><b>Tic Tac Toe</b></td>
-        <td align="center">
-          <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
-            alt="HTML5" />
-          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
-            alt="CSS3" />
-          <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
-            height="40" alt="JavaScript" />
-        </td>
-        <td align="center"><a href="https://github.com/redplusblue/tictactoe"><code><b>CODE</b></code></a></td>
-        <td align="center"><a href="https://redplusblue.github.io/tictactoe/"><b>Demo</b></a></td>
-      </tr>
-      <tr>
+    <tr>
         <td align="center"><b>To-Do List</b></td>
         <td align="center">
         <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
@@ -79,6 +53,32 @@
         </td>
         <td align="center"><a href="https://github.com/redplusblue/Restaurant-Page"><code><b>CODE</b></code></a></td>
         <td align="center"><a href="https://redplusblue.github.io/Restaurant-Page/"><b>Demo</b></a></td>
+      </tr>
+      <tr>
+        <td align="center"><b>Tic Tac Toe</b></td>
+        <td align="center">
+          <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
+            alt="HTML5" />
+          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
+            alt="CSS3" />
+          <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
+            height="40" alt="JavaScript" />
+        </td>
+        <td align="center"><a href="https://github.com/redplusblue/tictactoe"><code><b>CODE</b></code></a></td>
+        <td align="center"><a href="https://redplusblue.github.io/tictactoe/"><b>Demo</b></a></td>
+      </tr>
+      <tr>
+        <td align="center"><b>Calculator</b></td>
+        <td align="center">
+          <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
+            alt="HTML5" />
+          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
+            alt="CSS3" />
+          <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
+            height="40" alt="JavaScript" />
+        </td>
+        <td align="center"><a href="https://github.com/redplusblue/calculator"><code><b>CODE</b></code></a></td>
+        <td align="center"><a href="https://redplusblue.github.io/calculator/"><b>Demo</b></a></td>
       </tr>
        <tr>
         <td align="center"><b>Library</b></td>
