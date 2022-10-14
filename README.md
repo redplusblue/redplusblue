@@ -18,7 +18,7 @@
 
 <br>
 
-<div align="center"><a href="/projects.md"><img src="https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=blueviolet" height="40" /></a></div>
+<div><a href="/projects.md"><img src="https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=blueviolet" height="40" /></a></div>
 
 <br>
 
@@ -177,13 +177,13 @@
 # Stats :chart_with_upwards_trend::bar_chart::
 
 <!-- Stats widgets -->
-<div align="center">
+<div align>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&theme=dark" alt="redplusblue" />
 </div>
 
 <br>
 
-<div align="center">
+<div align>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=9&layout=compact&theme=dark" alt="Top Languages Card" />
 </div>
 <!--
