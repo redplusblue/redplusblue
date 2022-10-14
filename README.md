@@ -1,6 +1,9 @@
 <h1><a href="mailto:samirnotfound404@gmail.com"><img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!"></a></h1>
 
-<a href="mailto:samirnotfound404@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-37a779?style=for-the-badge&color=blue" height="35" /></a>
+<br>
+
+<div align="center"><a href="mailto:samirnotfound404@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-37a779?style=for-the-badge&color=blue" height="40" /></a></div>
+
 <br>
 
 - 🔭 I’m currently working on [The Odin Project's Fullstack Javascript Path](https://www.theodinproject.com/paths/full-stack-javascript?)
@@ -15,7 +18,9 @@
 
 <br>
 
-<a href="/projects.md"><img src="https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=blueviolet" height="35" /></a>
+<div align="center"><a href="/projects.md"><img src="https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=blueviolet" height="40" /></a></div>
+
+<br>
 
 # Languages and Tools:nut_and_bolt::
 
@@ -172,10 +177,15 @@
 # Stats :chart_with_upwards_trend::bar_chart::
 
 <!-- Stats widgets -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&theme=dark" alt="redplusblue" />
+<div align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&theme=dark" alt="redplusblue" />
+</div>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=9&layout=compact&theme=dark)
+<br>
 
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=9&layout=compact&theme=dark" alt="Top Languages Card" />
+</div>
 <!--
 Languages/Tools table Inspired by: [Michał Osman](https://github.com/michalosman/michalosman)
 -->
