@@ -1,5 +1,6 @@
 <h1><a href="mailto:samirnotfound404@gmail.com"><img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!"></a></h1>
-<h3><a href="mailto:samirnotfound404@gmail.com" title="Email!">Contact Me</a></h3>
+
+<a href="mailto:samirnotfound404@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-37a779?style=for-the-badge&color=blue" height="35" /></a>
 <br>
 
 - 🔭 I’m currently working on [The Odin Project's Fullstack Javascript Path](https://www.theodinproject.com/paths/full-stack-javascript?)
@@ -13,6 +14,8 @@
 - :open_mouth: I'm fascinated with websites that have interactive 3D elements.
 
 <br>
+
+<a href="/projects.md"><img src="https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=blueviolet" height="35" /></a>
 
 # Languages and Tools:nut_and_bolt::
 
@@ -176,3 +179,9 @@
 <!--
 Languages/Tools table Inspired by: [Michał Osman](https://github.com/michalosman/michalosman)
 -->
+
+<!---------------------------------------------------------------------------->
+[contactBTN]: https://img.shields.io/badge/Contact_Me-37a779?style=for-the-badge&color=blueviolet
+[contact]: mailto:samirnotfound404@gmail.com
+[projectsBTN]: https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=blueviolet
+[link]: projects.md
