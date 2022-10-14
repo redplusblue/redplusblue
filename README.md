@@ -1,4 +1,4 @@
-<h1><a href="location.reload()"><img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!"></a></h1>
+<h1><a href="mailto:samirnotfound404@gmail.com"><img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!"></a></h1>
 
 <br>
 
