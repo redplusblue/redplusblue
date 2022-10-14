@@ -179,9 +179,3 @@
 <!--
 Languages/Tools table Inspired by: [Michał Osman](https://github.com/michalosman/michalosman)
 -->
-
-<!---------------------------------------------------------------------------->
-[contactBTN]: https://img.shields.io/badge/Contact_Me-37a779?style=for-the-badge&color=blueviolet
-[contact]: mailto:samirnotfound404@gmail.com
-[projectsBTN]: https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=blueviolet
-[link]: projects.md
