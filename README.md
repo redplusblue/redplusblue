@@ -177,15 +177,17 @@
 # Stats :chart_with_upwards_trend::bar_chart::
 
 <!-- Stats widgets -->
-<div align>
+<div align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&theme=dark" alt="redplusblue" />
+   <img align="center" width="418" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=9&layout=compact&theme=dark" alt="Top Languages Card" />
 </div>
 
 <br>
 
-<div align>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=9&layout=compact&theme=dark" alt="Top Languages Card" />
+<div>
+   <img src="https://activity-graph.herokuapp.com/graph?username=redplusblue&theme=tokyo-night&area=true&custom_title=redplusblue's%20contribution%20graph" alt="Contribution Graph" />
 </div>
+
 <!--
 Languages/Tools table Inspired by: [Michał Osman](https://github.com/michalosman/michalosman)
 -->
