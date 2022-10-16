@@ -1,7 +1,7 @@
-# Projects:clipboard::
+<h1 align="center">Projects:clipboard::</h1>
 <!-- Projects table -->
- <table>
-    (A list of things I made)
+ <table align="center">
+    <p align="center">(A list of things I made)</p>
     <thead>
       <th style="font-size: 20px;">Name</th>
       <th style="font-size: 20px;">Languages/Tools used</th>
@@ -136,3 +136,7 @@
   </table>
 <!-- </details> -->
 <br>
+
+<div align="center">
+  <img align="center" src="https://github.com/redplusblue/redplusblue/blob/output/github-contribution-snake.svg" />
+</div>
