@@ -178,7 +178,7 @@
 
 <!-- Stats widgets -->
 <div align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&theme=dark" alt="redplusblue" />
+   <img align="center" width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=redplusblue&theme=dark" alt="redplusblue" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&langs_count=9&layout=compact&theme=dark" alt="Top Languages Card" />
 </div>
 
