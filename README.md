@@ -18,7 +18,7 @@
 
 <br>
 
-<div><a href="/projects.md"><img src="https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=blueviolet" height="40" /></a></div>
+<div><a href="/projects.md"><img src="https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=blueviolet" height="50" /></a></div>
 
 <br>
 
