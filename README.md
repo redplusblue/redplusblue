@@ -183,11 +183,11 @@
 </div>
 
 <br>
-
+<!--
 <div>
    <img src="https://activity-graph.herokuapp.com/graph?username=redplusblue&theme=tokyo-night&area=true&custom_title=redplusblue's%20contribution%20graph" alt="Contribution Graph" />
 </div>
 
-<!--
+
 Languages/Tools table Inspired by: [Michał Osman](https://github.com/michalosman/michalosman)
 -->
