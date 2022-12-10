@@ -120,7 +120,7 @@
             height="38" alt="PostgreSQL" />
         </td>
         <td align="center"><a href="https://github.com/redplusblue/sk.blog"><code><b>CODE</b></code></a></td>
-        <td align="center"><a href="https://sk-blog-0.herokuapp.com/"><b>Demo</b></a></td>
+        <td align="center"><b>Demo*</b></td>
       </tr>
       <tr>
         <td align="center"><b>Game explorer</b></td>
@@ -134,6 +134,7 @@
       </tr>
     </tbody>
   </table>
+<div align="center"><code>* Heroku Free is over, looking for alternate hosting</code></div> 
 <!-- </details> -->
 <br>
 
