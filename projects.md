@@ -139,5 +139,5 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github.com/redplusblue/redplusblue/blob/output/github-contribution-snake.svg" />
+  <img align="center" src="https://github.com/redplusblue/redplusblue/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
