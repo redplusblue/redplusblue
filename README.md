@@ -1,8 +1,8 @@
-<h1><a href="mailto:samirnotfound404@gmail.com"><img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!"></a></h1>
+<h1><a href="mailto:samirkabra.dev@gmail.com"><img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!"></a></h1>
 
 <br>
 
-<div align="center"><a href="mailto:samirnotfound404@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-37a779?style=for-the-badge&color=blue" height="40" /></a></div>
+<div align="center"><a href="mailto:samirkabra.dev@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-37a779?style=for-the-badge&color=blue" height="40" /></a></div>
 
 <br>
 
