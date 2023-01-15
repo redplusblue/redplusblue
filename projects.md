@@ -9,6 +9,21 @@
       <th style="font-size: 20px;">Demo</th>
     </thead>
     <tbody>
+     <tr>
+        <td align="center"><b>The-Weather-App</b></td>
+        <td align="center">
+        <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"
+            height="40" alt="JavaScript" />
+          <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"
+            alt="CSS3" />
+            <img title="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"
+            alt="Webpack" />
+            <img title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"
+            height="40" alt="npm" />
+        </td>
+        <td align="center"><a href="https://github.com/redplusblue/weather-app/tree/main/src"><code><b>CODE</b></code></a></td>
+        <td align="center"><a href="https://redplusblue.github.io/weather-app/"><b>Demo</b></a></td>
+      </tr>
     <tr>
         <td align="center"><b>To-Do List</b></td>
         <td align="center">
