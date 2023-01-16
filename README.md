@@ -8,13 +8,9 @@
 
 - 🔭 I’m currently working on [The Odin Project's Fullstack Javascript Path](https://www.theodinproject.com/paths/full-stack-javascript?)
 
-- <details><summary title="Click!">🌱 I'm also pursuing a <b> Bachelors degree in Computer Science... </b> </summary><ul>
-   <li>I've learned about Data Structures & Algorithms and Computer Architecture & Assembly language, alongwith Discrete math and Python Programming.</li>
-   <li>This fall, I will be learning about Systems Programming, Principles of Information & Data Management, Principles of Programming Languages and Internet   Technology.</li></ul></details>
+- 🌱 I'm also pursuing a <b> Bachelors degree in Computer Science </b>
    
-- 📖 I want to learn how to create responsive multiplatform web applications. 
-
-- :open_mouth: I'm fascinated with websites that have interactive 3D elements.
+- 📖 I want to learn how to create websites that have interactive 3D elements.
 
 <br>
 
@@ -101,15 +97,34 @@
 <tr>
    <td align="center" height="108" width="108">
       <img 
-        title="Bootstrap"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"   
+        title="MySQL"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="MySQL"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>MySQL</strong>
     </td>
-    
+    <td align="center" height="108" width="108">
+      <img
+        title="PostgreSQL"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+   <td align="center" height="108" width="108">
+      <img
+        title="Django"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+        width="48"
+        height="48"
+        alt="Django"
+      />
+      <br /><strong>Django</strong>
+    </td>
    <td align="center" height="108" width="108">
       <img
         title="Webpack"
@@ -142,16 +157,6 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        title="Django"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-        width="48"
-        height="48"
-        alt="Django"
-      />
-      <br /><strong>Django</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         title="Heroku"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"
         width="48"
@@ -159,16 +164,6 @@
         alt="Heroku"
       />
       <br /><strong>Heroku</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        title="PostgreSQL"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
     </td>
   </tr>
 </table>
