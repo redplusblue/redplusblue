@@ -54,6 +54,19 @@
         <td align="center"><a href="https://github.com/redplusblue/Restaurant-Page"><code><b>CODE</b></code></a></td>
         <td align="center"><a href="https://redplusblue.github.io/Restaurant-Page/"><b>Demo</b></a></td>
       </tr>
+     <tr>
+        <td align="center"><b>Knights-Travails</b></td>
+        <td align="center">
+        <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"
+            alt="HTML5" />      
+    <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
+    <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" alt="CSS3" />
+    <img title="Vite" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="40" height="40" alt="Webpack" />
+    <img title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm" />
+        </td>
+        <td align="center"><a href="https://github.com/redplusblue/knights-travails"><code><b>CODE</b></code></a></td>
+        <td align="center"><a href="https://redplusblue.github.io/knights-travails/"><b>Demo</b></a></td>
+      </tr>
       <tr>
         <td align="center"><b>Tic Tac Toe</b></td>
         <td align="center">
