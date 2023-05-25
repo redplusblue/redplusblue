@@ -53,7 +53,59 @@
       />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+     <td align="center" height="108" width="108">
+      <img
+        title="npm"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="npm"
+      />
+      <br /><strong>npm</strong>
+    </td>  
+     <td align="center" height="108" width="108">
+      <img
+        title="Webpack"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+        width="48"
+        height="48"
+        alt="Webpack"
+      />
+      <br /><strong>Webpack</strong>
+    </td>
+   <td align="center" height="108" width="108">
+      <img
+        title="Vite"
+        src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"
+        width="48"
+        height="48"
+        alt="Vite"
+      />
+      <br /><strong>Vite</strong>
+    </td>
+<td align="center" height="108" width="108">
+      <img
+        title="Jest"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Jest</strong>
+    </td>
+  <td align="center" height="108" width="108">
+      <img
+        title="Git/Github"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+</tr>
+<tr>
+   <td align="center" height="108" width="108">
         <img
           title="Python"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -85,17 +137,15 @@
       </td>
       <td align="center" height="108" width="108">
         <img
-          title="Haskell"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"
+          title="Android Studio"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
           width="48"
           height="48"
-          alt="Haskell"
+          alt="Android Studio"
         />
-        <br /><strong>Haskell</strong>
+        <br /><strong>Android ..</strong>
       </td>
-</tr>
-<tr>
-   <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
       <img 
         title="MySQL"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
@@ -127,43 +177,13 @@
     </td>
    <td align="center" height="108" width="108">
       <img
-        title="Webpack"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+        title="Amazon Web Services"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
         width="48"
         height="48"
-        alt="Webpack"
+        alt="AWS"
       />
-      <br /><strong>Webpack</strong>
-    </td>
-  <td align="center" height="108" width="108">
-      <img
-        title="npm"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="npm"
-      />
-      <br /><strong>npm</strong>
-    </td>  
-  <td align="center" height="108" width="108">
-      <img
-        title="Git/Github"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        title="Heroku"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"
-        width="48"
-        height="48"
-        alt="Heroku"
-      />
-      <br /><strong>Heroku</strong>
+      <br /><strong>AWS</strong>
     </td>
   </tr>
 </table>
