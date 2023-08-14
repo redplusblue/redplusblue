@@ -2,7 +2,7 @@
 
 <br>
 
-<div align="center"><a href="mailto:samirkabra.dev@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-37a779?style=for-the-badge&color=blue" height="40" /></a></div>
+<div align="center"><a href="https://samirkabra.me/contact"><img src="https://img.shields.io/badge/Contact_Me-37a779?style=for-the-badge&color=blue" height="40" /></a></div>
 
 <br>
 
