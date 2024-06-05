@@ -1,4 +1,6 @@
-<h1><a href="https://samirkabra.me/contact"><img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!"></a></h1>
+<h1>
+   <img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!">
+</h1>
 <div align="center">
    <a href="https://samirkabra.me/"><img align="center" src="https://img.shields.io/badge/Portfolio-37a779?style=for-the-badge&color=3d59a1" height="50" /></a>
    &nbsp;
@@ -23,7 +25,6 @@
                <span>→ 📖 I'm currently learning <b> Data Science </b> and <b> Machine Learning</b>.</span>
                <br>
                <span>→ 🖥 I'm passionate about <i>self-hosting</i> and maintaining services on my HomeServer.</span>
-            </ul>
          </div>
       </td>
    </tr>
