@@ -29,8 +29,8 @@
 <br>
 <!-- Stats widgets -->
 <div align="center">
-         <img height="250" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=redplusblue&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=420&card_height=200&fire=EB5454" alt="Github Streak Card" />
+         <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=redplusblue&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=420&card_height=200&fire=EB5454" alt="Github Streak Card" />
          &nbsp;
-         <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&layout=compact&langs_count=10&theme=tokyonight&include_all_commits=true&size_weight=0.5&count_weight=0.5&card_width=320&hide_border=true&border_radius=0" alt="Top Languages Card" />
+         <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&layout=compact&langs_count=10&theme=tokyonight&include_all_commits=true&size_weight=0.5&count_weight=0.5&card_width=320&hide_border=true&border_radius=0" alt="Top Languages Card" />
 </div>
 <br>
