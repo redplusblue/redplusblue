@@ -16,9 +16,9 @@
       </td>
       <td>
          <div align="left">
-               <span>→ 🔭 I’m currently working on <a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project's Fullstack Javascript Path</a>.</span>
-               <br>
                <span>→ 🌱 I have a <b> Bachelors degree in Computer Science</b>.</span>
+               <br>
+               <span>→ 🔭 I’m currently working on <a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project's Fullstack Javascript Path</a>.</span>               
                <br>
                <span>→ 📖 I am currently learning <b> Data Science </b> and <b> Machine Learning</b>.</span>
             </ul>
