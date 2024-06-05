@@ -11,16 +11,18 @@
    <tr>
       <td>
          <div>
-            <img align="center" width=70 height=70 src="https://cdn.svgporn.com/logos/hugging-face-icon.svg?response-content-disposition=attachment%3Bfilename%3Dhugging-face-icon.svg" alt="profile"/>
+            <img align="center" width=85 height=85 src="https://cdn.svgporn.com/logos/hugging-face-icon.svg?response-content-disposition=attachment%3Bfilename%3Dhugging-face-icon.svg" alt="profile" />
          </div>
       </td>
       <td>
-         <div align="left">
+         <div align="left" style="color: blue;">
                <span>→ 🌱 I have a <b> Bachelors degree in Computer Science</b>.</span>
                <br>
                <span>→ 🔭 I’m currently working on <a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project's Fullstack Javascript Path</a>.</span>               
                <br>
-               <span>→ 📖 I am currently learning <b> Data Science </b> and <b> Machine Learning</b>.</span>
+               <span>→ 📖 I'm currently learning <b> Data Science </b> and <b> Machine Learning</b>.</span>
+               <br>
+               <span>→ 🖥 I'm passionate about <i>self-hosting</i> and maintaining services on my HomeServer.</span>
             </ul>
          </div>
       </td>
