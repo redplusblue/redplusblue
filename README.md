@@ -6,7 +6,7 @@
    &nbsp;
    <a href="https://samirkabra.me/contact"><img align="center" src="https://img.shields.io/badge/Contact-37a779?style=for-the-badge&color=9d7cd8" height="50" /></a>
    &nbsp;
-   <a href="/projects.md"><img align="center" src="https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=4fd6be" height="50" /></a>
+   <a href="https://redplusblue.github.io/projects/"><img align="center" src="https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=4fd6be" height="50" /></a>
 </div>
 <br>
 <table align="center">
