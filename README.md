@@ -2,9 +2,9 @@
    <img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!">
 </h1>
 <div align="center">
-   <a href="https://samirkabra.me/"><img align="center" src="https://img.shields.io/badge/Portfolio-37a779?style=for-the-badge&color=3d59a1" height="50" /></a>
+   <a href="https://samirkabra.com/"><img align="center" src="https://img.shields.io/badge/Portfolio-37a779?style=for-the-badge&color=3d59a1" height="50" /></a>
    &nbsp;
-   <a href="https://samirkabra.me/contact"><img align="center" src="https://img.shields.io/badge/Contact-37a779?style=for-the-badge&color=9d7cd8" height="50" /></a>
+   <a href="https://samirkabra.com/contact"><img align="center" src="https://img.shields.io/badge/Contact-37a779?style=for-the-badge&color=9d7cd8" height="50" /></a>
    &nbsp;
    <a href="https://redplusblue.github.io/projects/"><img align="center" src="https://img.shields.io/badge/Projects-37a779?style=for-the-badge&color=4fd6be" height="50" /></a>
 </div>
