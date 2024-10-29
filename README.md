@@ -1,5 +1,5 @@
 <h1>
-   <img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science." title="Click to contact me!">
+   <img src="files/WelcomeAnimation.gif" alt="Hi👋 I'm Samir! A fullstack developer and a Student of Computer Science.">
 </h1>
 <div align="center">
    <a href="https://samirkabra.com/"><img align="center" src="https://img.shields.io/badge/Portfolio-37a779?style=for-the-badge&color=3d59a1" height="50" /></a>
