@@ -18,11 +18,11 @@
       </td>
       <td>
          <div align="left" style="color: blue;">
+               <span>→ 🧑‍💻 I’m currently working full time as a <b> Software Engineer </b></a>.</span>               
+               <br>
                <span>→ 🌱 I have a <b> Bachelors degree in Computer Science</b>.</span>
                <br>
-               <span>→ 🔭 I’m currently working on <a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project's Fullstack Javascript Path</a>.</span>               
-               <br>
-               <span>→ 📖 I'm currently learning <b> Data Science </b> and <b> Machine Learning</b>.</span>
+               <span>→ 🔭 I’m also working on <a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project's Fullstack Javascript Path</a>.</span>               
                <br>
                <span>→ 🖥 I'm passionate about <i>self-hosting</i> and maintaining services on my HomeServer.</span>
          </div>
@@ -32,8 +32,8 @@
 <br>
 <!-- Stats widgets -->
 <div align="center">
-         <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=redplusblue&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=420&card_height=200&fire=EB5454" alt="Github Streak Card" />
+<!--          <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=redplusblue&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=420&card_height=200&fire=EB5454" alt="Github Streak Card" />
          &nbsp;
          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redplusblue&layout=compact&langs_count=10&theme=tokyonight&include_all_commits=true&size_weight=0.5&count_weight=0.5&card_width=320&hide_border=true&border_radius=0" alt="Top Languages Card" />
-</div>
+</div> -->
 <br>
